@@ -1,0 +1,17 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* import "@fontsource/monaspace-krypton"; */
+/* monaspace-krypton-latin-400-normal */
+/* @font-face {
+  font-family: 'Monaspace Krypton';
+  font-style: bold;
+  font-display: swap;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/monaspace-krypton@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/monaspace-krypton@latest/latin-400-normal.woff) format('woff');
+}
+
+html, body {
+    font-family: 'Monaspace Krypton';
+  } */
