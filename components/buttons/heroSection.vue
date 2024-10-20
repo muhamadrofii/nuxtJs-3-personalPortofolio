@@ -1,1 +1,0 @@
-<h1>Demo with auto imports</h1>
