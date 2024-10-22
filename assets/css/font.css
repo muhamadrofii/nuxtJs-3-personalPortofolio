@@ -1,4 +1,8 @@
 /* assets/css/fonts.css */
 
 /* monaspace-krypton-latin-400-normal */
+@import url('https://fonts.cdnfonts.com/css/sf-mono');
 
+.sf-mono {
+    font-family: 'SF Mono', sans-serif;
+  }

@@ -15,7 +15,8 @@ export default {
         customNavy: "#0A192F",
       },
       fontFamily: {
-        'monaspace-krypton': ['Monaspace Krypton'],
+        // sfmono: ['SF Mono', 'monospace'],
+        sfmono: ['SF Mono', 'sans-serif'],
       },
     },
   },

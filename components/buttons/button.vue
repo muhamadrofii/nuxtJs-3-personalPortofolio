@@ -42,7 +42,7 @@ const handleClick = (event) => {
 const variantClasses = computed(() => {
     switch (props.variant) {
         case 'primary':
-            return 'bg-blue-500 text-white hover:bg-blue-600'
+            return 'bg-none text-white hover:bg-green-500'
         case 'secondary':
             return 'bg-gray-500 text-white hover:bg-gray-600'
         case 'danger':

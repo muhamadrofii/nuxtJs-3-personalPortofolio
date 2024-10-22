@@ -4,7 +4,7 @@
     <!-- Text Content -->
     <div class="md:w-1/2">
       <h1 class="text-4xl font-bold text-gray-800 mb-4">Welcome to Your Product</h1>
-      <p class="text-gray-600 mb-6">KULIAH SEGAN, NGULANG MATKUL PUN TAK MAU</p>
+      <p class="text-white mb-6">KULIAH SEGAN, NGULANG MATKUL PUN TAK MAU</p>
       <button class="ring-2 ring-blue-500">Create account</button>
       <button class="border-solid border-2 border-sky-500 rounded-lg p-2.5 text-white">TOMBOL LIKE</button>
       <ButtonsButton variant="primary" size="medium" @click="handleClick">Primary Button</ButtonsButton>
