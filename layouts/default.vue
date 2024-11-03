@@ -2,6 +2,7 @@
 import NavbarSection from '~/components/navbarSection.vue';
 import FooterSection from '~/components/footerSection.vue';
 import Footer from '~/components/footer.vue';
+import HerooSection from '~/components/herooSection.vue';
 import NavbarrSection from '~/components/navbarrSection.vue';
 </script>
 
@@ -10,5 +11,6 @@ import NavbarrSection from '~/components/navbarrSection.vue';
     <!-- <FooterSection/> -->
     <!-- <HeroSection/> -->
     <NavbarrSection/>
+    <HerooSection/>
     <Footer/>
 </template>
