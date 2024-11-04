@@ -1,6 +1,7 @@
 <template>
 	<section class="dark:bg-gray-100 dark:text-gray-800">
-		<div class="container flex flex-col justify-center p-6 mx-auto px-32 sm:py-12 lg:py-24 lg:flex-row lg:justify-between">
+		<div class="container flex flex-col justify-center p-6 mx-auto sm:py-12 lg:py-24 lg:flex-row lg:justify-between lg:px-32">
+
             <div class="flex flex-col justify-center p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
                 <h1 class="text-5xl font-bold leading-none sm:text-6xl">Muhamad Rofi'i
                     <span class="dark:text-violet-600">Omke Gams</span>erat
